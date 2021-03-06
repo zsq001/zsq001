@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm zsq001. Nice to meet you!
 
 <!--
-**zsq001/zsq001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+**zsq001/zsq001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+ I'm Shengqian Zou. A senior three student from Urumqi, China.
+ 
+ 
+### Find me 
+- 🌱 My blog:[link](https://www.zsq001.cn:12344)
+- 👯 My Telegram:[link](https://t.me/zsq001)
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
