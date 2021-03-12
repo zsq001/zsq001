@@ -1,4 +1,4 @@
-### Hi there 👋 I'm zsq001. Nice to meet you!
+### Hi 👋 zsq001 here!. Nice to meet you!
 
 <!--
 **zsq001/zsq001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
