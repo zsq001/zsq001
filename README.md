@@ -5,9 +5,9 @@
  I'm Shengqian Zou. A senior three student from Urumqi, China.
  
  
-### Find me 
-- 🌱 My blog:[link](https://www.zsq001.cn:12344)
-- 👯 My Telegram:[link](https://t.me/zsq001)
+### Find me & About me
+- 🌱 My index:[link](https://zsq001.cn)
+- 
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
