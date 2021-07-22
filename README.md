@@ -2,7 +2,7 @@
 
 <!--
 **zsq001/zsq001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- I'm Shengqian Zou. A senior three student from Urumqi, China.
+ I'm Shengqian Zou. A colledge student of PUBG.
  
  
 ### Find me & About me
