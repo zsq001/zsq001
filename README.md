@@ -2,7 +2,8 @@
 
 <!--
 **zsq001/zsq001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- I'm Grayfox Zou. A college student of BUPT.
+ I'm Grayfox Zou. BUPT student / Baidu R&D.
+ - Junior Backend Engineer
  - Mainly use Golang
  - Know a little about Vue.js C# C++
  - Hate Java heavily
